@@ -1,0 +1,21 @@
+{
+  "name": "word_counter_samy",
+  "version": "1.0.0",
+  "description": "to count words excluding whitespaces",
+  "main": "index.js",
+  "bin": {
+    "word_counter_samy": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*word count *\\"
+  },
+  "keywords": [
+    "sammi"
+  ],
+  "author": "samiya marium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
